@@ -5,6 +5,6 @@ Made with:
 - HTML
 - CSS
 
-###Screenshot
+### Screenshot
 
-![screenshot](/home/roman/dev/front/test-css-landing/screenshot.png) 
+![screenshot](screenshot.png) 
