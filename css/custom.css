@@ -3,23 +3,39 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: sans-serif;
+  color: #222;
 }
 
-.nav{
+.nav {
   display: block;
   padding: 1em;
   background: #0065fd;
 }
 
-.nav .nav-badge{
+.nav .nav-badge {
   font-size: 1.25em;
   text-decoration: none;
   color: #fff;
 }
 
-.header{
+.header {
+  display: block;
+  padding: 3em 1em;
+}
+
+.main {
+  padding: 1em;
+  background: #0065fd;
+  color: #fff;
+}
+.footer {
   display: block;
   padding: 1em;
-  padding-top: 2em;
+}
+
+.footer .footer-link {
+  display: inline-block;
+  text-decoration: none;
+  color: #0065fd;
 }
