@@ -5,3 +5,15 @@
 body {
   font-family: "Roboto", sans-serif;
 }
+
+.nav{
+  display: block;
+  padding: 1em;
+  background: #0065fd;
+}
+
+.nav .nav-badge{
+  font-size: 1.25em;
+  text-decoration: none;
+  color: #fff;
+}
