@@ -1,6 +1,10 @@
 # Landing Page
 
-Made with
+Made with:
 
 - HTML
 - CSS
+
+###Screenshot
+
+![screenshot](/home/roman/dev/front/test-css-landing/screenshot.png) 
