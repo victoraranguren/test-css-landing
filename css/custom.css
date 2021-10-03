@@ -17,3 +17,9 @@ body {
   text-decoration: none;
   color: #fff;
 }
+
+.header{
+  display: block;
+  padding: 1em;
+  padding-top: 2em;
+}
